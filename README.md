@@ -11,7 +11,11 @@ arduino   LCM1602
   A5        SCL
   
 執行範例前請先安裝LiquidCrystal函式庫
+
 將LiquidCrystal目錄整個放到
+
 C:\Program Files (x86)\Arduino\libraries 之下
+
 重新啟動arduino IDE後
+
 再開啟LCM1602IIC 範列程式執行即可
