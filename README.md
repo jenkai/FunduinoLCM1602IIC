@@ -4,10 +4,15 @@ FunduinoLCM1602IIC
 這是arduino透過LCM1602介面模組操作1602 LCD顯示器的範例
 
 腳位定義
+
 arduino   LCM1602
+
   +5V       VCC
+
   GND       GND
+
   A4        SDA
+
   A5        SCL
   
 執行範例前請先安裝LiquidCrystal函式庫
