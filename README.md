@@ -5,15 +5,15 @@ FunduinoLCM1602IIC
 
 腳位定義
 
-arduino   LCM1602
+arduino  LCM1602
 
-  +5V       VCC
+  +5V == VCC
 
-  GND       GND
+  GND == GND
 
-  A4        SDA
+  A4  == SDA
 
-  A5        SCL
+  A5  == SCL
   
 執行範例前請先安裝LiquidCrystal函式庫
 
